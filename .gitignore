@@ -1,0 +1,23 @@
+# Keil 编译生成的中间文件
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.htm
+*.lnp
+*.map
+*.dep
+*.build_log.htm
+*.axf
+*.hex
+*.bin[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQG0_hGFSzp7pDAnodrNGvJlkIXUCd-b9uMHF0rbfLlYBjwFet2UdmDwe4YcWi0Y0SVQdky5cVwkolI5VuRck2AkKZa-Z9IXzwUvml0eddknfKUT4fqRL7tPOCwdCA-Ljpq7c9rEnKOp27JvWdb3CNdZgPwYoRMC6GlTanqlc1mrz7hLY2s%3D)]
+
+# Keil 自动生成的个人界面配置文件（不同电脑不通用）
+*.uvgui.*
+*.uvguix.*[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQG0_hGFSzp7pDAnodrNGvJlkIXUCd-b9uMHF0rbfLlYBjwFet2UdmDwe4YcWi0Y0SVQdky5cVwkolI5VuRck2AkKZa-Z9IXzwUvml0eddknfKUT4fqRL7tPOCwdCA-Ljpq7c9rEnKOp27JvWdb3CNdZgPwYoRMC6GlTanqlc1mrz7hLY2s%3D)]
+
+# 其他临时文件
+*.bak
+*.tmp
+```[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQG0_hGFSzp7pDAnodrNGvJlkIXUCd-b9uMHF0rbfLlYBjwFet2UdmDwe4YcWi0Y0SVQdky5cVwkolI5VuRck2AkKZa-Z9IXzwUvml0eddknfKUT4fqRL7tPOCwdCA-Ljpq7c9rEnKOp27JvWdb3CNdZgPwYoRMC6GlTanqlc1mrz7hLY2s%3D)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGRiY8duBiioiYsvrGKtLztY98ZYVvRBB97CCCeqzVrZy3_X_c-kwNFQPDlOvDjT_Iw1zEvSdaVoAiYOK-ebSz9Ll5IssZ2rleWQkpVoc22MJf87BuvyCdZfvYs-VUBlZ_aSv8t)]
